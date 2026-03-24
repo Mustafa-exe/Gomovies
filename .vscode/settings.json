@@ -1,0 +1,8 @@
+{
+    "dart.flutterSdkPath": "C:\\Users\\2must\\.puro\\envs\\stable\\flutter",
+    "dart.sdkPath": "C:\\Users\\2must\\.puro\\envs\\stable\\flutter\\bin\\cache\\dart-sdk",
+    "dart.flutterRunAdditionalArgs": [
+        "--dart-define=TMDB_API_KEY=37220662d5219613f6231e4d83fb9aaf",
+        "--dart-define=OMDB_API_KEY=c8725e90"
+    ]
+}
