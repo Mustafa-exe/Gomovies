@@ -15,3 +15,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Git Sync Commands
+
+- `git fetch`: Downloads latest commits/tags from remote without changing local branch files.
+- `git merge`: Combines another branch (or fetched remote branch) into your current branch.
+- `git pull` (fetch + merge): Runs `git fetch` then merges the upstream branch into your current branch.
